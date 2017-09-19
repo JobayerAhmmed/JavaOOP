@@ -18,7 +18,7 @@ package oop.interfacejava;
  *
  * A Java interface can contain both variables and constants.
  * However, often it does not makes sense to place variables in an interface.
- * avoid placing variables in Java interfaces if you can.
+ * avoid placing variables in Java interfaces if you can.K
  * All variables in an interface are public, even if you leave out the public keyword.
  *
  * the interface cannot specify any implementation for methods.
