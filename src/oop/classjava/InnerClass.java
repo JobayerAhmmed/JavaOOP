@@ -5,6 +5,7 @@ package oop.classjava;
  * because an inner class is associated with an instance, it cannot define any static members itself.
  * An instance of Inner Class can exist only within an instance of Outer Class.
  * use inner classes to implement helper classes.
+ * can be private
  */
 public class InnerClass {
 
